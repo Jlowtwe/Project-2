@@ -1,4 +1,4 @@
-****Chosen Workflow:** Summarizing meetings into action items
+**Chosen Workflow:** Summarizing meetings into action items
 
 **User:** Cheif Excutive Officer
 
