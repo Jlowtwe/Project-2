@@ -1,3 +1,5 @@
+Youtube Link: https://youtu.be/MufUGab7GMU
+
 **Chosen Workflow:** Summarizing meetings into action items
 
 **User:** Cheif Excutive Officer
